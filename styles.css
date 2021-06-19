@@ -1,0 +1,14 @@
+body {background-color: mistyrose;
+}
+hr {
+  background-color: orchid;
+  border-style: none;
+  height: 2px;
+  width: 30%
+}
+h1 {
+  color: slateblue;
+}
+h3 {
+  color: #66BFBF;
+}
